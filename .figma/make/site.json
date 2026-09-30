@@ -1,0 +1,10 @@
+{
+  "description": "Empowering product managers with data visualization tools to enhance customer experience and drive impactful improvements in their products.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
